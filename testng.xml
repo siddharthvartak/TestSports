@@ -2,7 +2,7 @@
 <test name="Sanity" preserve-order="true">
 <classes>
 <class name="com.playphone.msportsUI.tutorial"/>
-
+<class name="com.playphone.msportsUI.HomePageLaunch"/>
 </classes>
 </test>
 </suite>
