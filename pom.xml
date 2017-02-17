@@ -13,7 +13,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-	<profiles>
+<profiles>
 		<profile>
 			<id>prod</id>
 			<build>
@@ -51,7 +51,7 @@
 
 		</profile>
 	</profiles>
-
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>

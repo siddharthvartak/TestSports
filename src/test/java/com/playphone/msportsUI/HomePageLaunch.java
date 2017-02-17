@@ -1,4 +1,4 @@
-package com.playphone.msportsUI;
+package com.playphone.msports;
 
 import java.util.concurrent.TimeUnit;
 
@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 public class HomePageLaunch {
-	
+
 	private WebDriver driver;
 	private String baseUrl;
 	  
@@ -59,6 +59,3 @@ public class HomePageLaunch {
 
 }
 }
-
-
-
